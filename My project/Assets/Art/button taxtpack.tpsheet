@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:563e4b6c3bdb2364c57f1551a4f10b3e:f008f5bb9dafbe7b6733d6f7d4fc873f:54abd68d5ed3bcff53aa63a13cac3682$
+#
+:format=40300
+:texture=button taxtpack.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+button pressed;0;180;543;239; 0.5;0.5; 0;0;0;0
+button regular;0;419;541;251; 0.5;0.5; 0;0;0;0
+dark frame;0;670;598;354; 0.5;0.5; 0;0;0;0
+prog bar lightning;912;876;70;81; 0.5;0.5; 0;0;0;0
+progress bar 3slices;912;957;92;67; 0.5;0.5; 0;0;0;0
+purple rect;598;944;314;80; 0.5;0.5; 0;0;0;0

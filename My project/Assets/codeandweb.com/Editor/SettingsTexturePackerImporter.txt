@@ -1,0 +1,8 @@
+version: 2
+tpsheetFileNames:
+- Assets/Art/button taxtpack.tpsheet
+textureFileNames:
+- Assets/Art/button taxtpack.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
